@@ -8,8 +8,6 @@ This project analyses social media advertisement performance to understand how d
 
 ## Project 2: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/blob/main/README.md)
 
-- Extracted and cleaned downtime records from the production line excel file using Power Query.
-- Modelled data and performed detailed exploratory analysis using Power BI to quantify downtime distribution and identify critical drivers.
-- Visualised downtime data in Power BI to compare downtime contribution by operators, machine failure, and inventory shortages.
+Using Power Query and Power BI, I analyzed soda bottling production line data and found that downtime caused a 36% inefficiency, extending batch duration by 23 hours. Operator errors were the leading drivers. Five factors–mainly machine adjustments, machine failure, and inventory shortage amongst others–accounted for 80% of total downtime. Base on these findings, I recommended targeted operator training, improved maintenance schedules, real-time inventory tracking, and high-downtime equipment upgrades to boost operational efficiency.
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing%20downtime%20report.jpg" width="300">
