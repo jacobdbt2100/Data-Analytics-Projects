@@ -8,14 +8,16 @@ Based on these findings, I recommend **scaling spend selectively** toward top-pe
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Marketing-Campaign-Effectiveness-Analysis/main/marketing campaign effectiveness report.jpg" width="600">
 
+___
 
-## Project 3: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/blob/main/README.md)
+## Project 2: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/blob/main/README.md)
 On-Time and In-Full service levels were consistently less than targets with at least 23% shortfall over a period of six months. "Delivered" quantity fall short of "Orders" by 400,000. Three customers out of the top 5 having over one million order quantity representing ___% of total order quantity were conspicuously underserved with On_Time delivery as down to 28%. Other customers had less than 800,000 order quantity.
 
 Base on these findings, I recommend targeted product manufacturing schedules and real-time inventory tracking to boost operational efficiency.
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/supply chain report.jpg" width="600">
 
+___
 
 ## Project 3: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/blob/main/README.md)
 
