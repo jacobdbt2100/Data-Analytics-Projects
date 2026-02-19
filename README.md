@@ -1,9 +1,12 @@
 ## End-to-End Analytics Engineering Project:
 ___
 
-# Project 1: Building an ELT Pipeline for SaaS Revenue, Retention & Expansion Analytics (with dbt, PostgreSQL, Git/GitHub, Power BI)
+# Project 1: [Building an ELT Pipeline for SaaS Revenue, Retention & Expansion Analytics](https://github.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/tree/main)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/main/dbt_postgresql_elt.jpg" width="600">
+
+**Tools:** `dbt` `PostgreSQL` `Git/GitHub` `Power BI`
+___
 
 
 
