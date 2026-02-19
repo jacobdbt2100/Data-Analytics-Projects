@@ -20,7 +20,7 @@ To reverse this trend, the business should **strengthen demand forecasting** and
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/supply chain report.jpg" width="600">
 
-# Project 3: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/blob/main/README.md)
+# Project 3: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
 Downtime caused **36% inefficiency**, extending batch duration by **23 hours (1,388 minutes)** beyond the planned **41 hours**, increasing delivery risk. Operator-related issues drove downtime **12% higher** than non-operator causes, with **five factors accounting for 80% of total downtime**, three (**Machine adjustment, Batch change, Batch coding**) linked to operator error. Mac’s downtime is mainly driven by batch changes, while other operators struggle more with machine adjustments, leaving Mac’s efficiency slightly below the team average.
 
