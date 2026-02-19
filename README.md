@@ -1,3 +1,4 @@
+___
 ## End-to-End Analytics Engineering Project:
 ___
 
@@ -19,6 +20,7 @@ Over the past six months, the company has **consistently missed SLA targets**, w
 To reverse this trend, the business should **strengthen demand forecasting** and safety-stock settings for high-volume SKUs, **prioritise key accounts** for service recovery, expand capacity in warehousing and dispatch, and implement **account-level SLA monitoring** to drive sustained OTIF improvement.
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/supply chain report.jpg" width="600">
+___
 
 # Project 3: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
@@ -27,6 +29,7 @@ Downtime caused **36% inefficiency**, extending batch duration by **23 hours (1,
 I recommend targeted operator training on high-impact error drivers, focused coaching for Mac on batch changes, strengthened preventive maintenance for high-downtime equipment, and real-time tracking to protect delivery schedules and stock levels.
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="600">
+___
 
 # Project 4: [Marketing Campaign Effectiveness Analysis](https://github.com/jacobdbt2100/Marketing-Campaign-Effectiveness-Analysis/tree/main)
 The campaign delivered strong overall performance, achieving a **ROAS of 4.0, CTR of 9.8%**, and a **conversion rate of 4.5%**, driven by high efficiency in **Search Engine and Social Media** channels and leading returns from the **Eastern region**. However, regional funnel imbalances persist, with the **South** showing high engagement but weak conversion and the **North** converting efficiently despite lower reach. Revenue performance also showed a **sharp decline between April and June 2024** before recovering in July, while revenue remains heavily concentrated in **Product C**, particularly across North, West, and East.
