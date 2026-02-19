@@ -13,7 +13,7 @@ ___
 ## Data Analytics Projects with Storytelling:
 ___
 
-# Project 2: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/blob/main/README.md)
+# Project 2: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/tree/main)
 Over the past six months, the company has **consistently missed SLA targets**, with an average **delivery delay of +0.5 days** and an average **shortfall of 8 units per order line**, reflecting ongoing lead-time variability and inventory gaps. On-Time and In-Full rates remain low at 59% and 52%, and **40% of all orders are delivered late**, confirming a structural service performance issue. Delays are most severe for high-volume customers such as Lotus Mart, Acclaimed Stores, and Cool Blue (≈ +1.5 days), while the Dairy category, which represents 79% of total volume, records the highest shortages (10–14 units per line).
 
 To reverse this trend, the business should **strengthen demand forecasting** and safety-stock settings for high-volume SKUs, **prioritise key accounts** for service recovery, expand capacity in warehousing and dispatch, and implement **account-level SLA monitoring** to drive sustained OTIF improvement.
