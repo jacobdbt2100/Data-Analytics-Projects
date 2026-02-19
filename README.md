@@ -30,6 +30,7 @@ Downtime caused **36% inefficiency**, extending batch duration by **23 hours (1,
 I recommend targeted operator training on high-impact error drivers, focused coaching for Mac on batch changes, strengthened preventive maintenance for high-downtime equipment, and real-time tracking to protect delivery schedules and stock levels.
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="600">
+
 ___
 
 # Project 4: [Marketing Campaign Effectiveness Analysis](https://github.com/jacobdbt2100/Marketing-Campaign-Effectiveness-Analysis/tree/main)
@@ -38,5 +39,6 @@ The campaign delivered strong overall performance, achieving a **ROAS of 4.0, CT
 Based on these findings, I recommend **scaling spend selectively** toward top-performing channels, regions, and products; **rebalancing regional strategies** to address funnel inefficiencies; and **reviewing the April–June period** to prevent future revenue declines and strengthen campaign stability.
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Marketing-Campaign-Effectiveness-Analysis/main/marketing campaign effectiveness report.jpg" width="600">
+
 ___
 
