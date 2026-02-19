@@ -3,7 +3,7 @@ ___
 
 # Project 1: Building an ELT Pipeline for SaaS Revenue, Retention & Expansion Analytics (with dbt, PostgreSQL, Git/GitHub, Power BI)
 
-<img src="https://raw.githubusercontent.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/main/dbt_postgresql_elt.jpg" width="800">
+<img src="https://raw.githubusercontent.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/main/dbt_postgresql_elt.jpg" width="600">
 
 
 
