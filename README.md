@@ -2,7 +2,7 @@ ___
 ## End-to-End Analytics Engineering Project:
 ___
 
-# Project 1: [Building an ELT Pipeline for SaaS Revenue, Retention & Expansion Analytics](https://github.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/tree/main)
+# Project 1: [Building an ELT Pipeline for SaaS Revenue, Retention & Support Analytics](https://github.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/tree/main)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/main/dbt_postgresql_elt.jpg" width="600">
 
