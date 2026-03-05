@@ -1,7 +1,3 @@
-___
-## End-to-End Analytics Engineering Project:
-___
-
 # Project 1: [Building an ELT Pipeline for SaaS Revenue, Retention & Support Analytics](https://github.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/tree/main)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/main/dbt_postgresql_elt.jpg" width="600">
@@ -9,11 +5,6 @@ ___
 Designed and implemented a production-style ELT pipeline to transform raw SaaS data into analytics-ready models for revenue, retention, churn, reactivation, and support performance analysis.
 
 Using dbt, PostgreSQL, and Power BI, I built a structured metrics layer that enables business stakeholders to monitor MRR, churn rate, LTV, reactivation cycles, and support load in real time.
-___
-
-
-
-## Data Analytics Projects with Storytelling:
 ___
 
 # Project 2: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
