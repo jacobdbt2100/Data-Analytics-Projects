@@ -1,4 +1,4 @@
-## Project 1: [Building an ELT Pipeline for SaaS Revenue, Retention & Support Analytics](https://github.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/tree/main)
+# Project 1: [Building an ELT Pipeline for SaaS Revenue, Retention & Support Analytics](https://github.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/tree/main)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/SaaS-Subscription-and-Churn-Analytics/main/dbt_postgresql_elt.jpg" width="600">
 
@@ -7,7 +7,7 @@ Designed and implemented a production-style ELT pipeline to transform raw SaaS d
 Using dbt, PostgreSQL, and Power BI, I built a structured metrics layer that enables business stakeholders to monitor MRR, churn rate, LTV, reactivation cycles, and support load in real time.
 ___
 
-## Project 2: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
+# Project 2: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="600">
 
@@ -16,7 +16,7 @@ Downtime extended production time by 23 hours, reducing line efficiency by 36%, 
 Recommended actions include targeted operator training supported by clear Standard Operating Procedures (SOPs), focused batch change coaching for Mac, machine adjustment training for other operators, strengthened preventive maintenance, and real-time tracking to maintain optimal stock levels.
 ___
 
-## Project 3: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/tree/main)
+# Project 3: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/tree/main)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/supply chain report.jpg" width="600">
 
