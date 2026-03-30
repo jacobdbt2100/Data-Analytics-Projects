@@ -4,7 +4,6 @@ ___
 
 # Project 2: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
-___
 
 # Project 3: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/tree/main)
 
