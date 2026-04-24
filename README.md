@@ -1,13 +1,14 @@
 ## Project 1: [Trial-to-Activation Behaviour Analysis and ELT Modelling](https://github.com/jacobdbt2100/trial_activation_analysis)
 
-This project defines **Trial Activation** for a workforce management SaaS product by identifying behaviours that signal product value and predicting conversion likelihood.
+This project defines **Trial Activation** for a workforce management SaaS product by identifying behaviours that signal product value and evaluating their relationship with conversion likelihood.
 
-The goal is to help product teams understand:
+The goal is to help product teams:
 
-- What a **good trial** looks like
-- Which behaviours signal **high conversion potential**
-- When to **intervene during onboarding**
-- How to track activation at scale using **warehouse models**
+- Define what a **good trial** looks like based on meaningful product behaviours
+- Identify behaviours associated with **higher conversion potential**
+- Determine when to **intervene during onboarding** to improve engagement
+- **Track activation** consistently at scale using **warehouse-based data models**
+- Generate actionable insights to **improve onboarding and conversion performance**
 
 ## Project 2: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
