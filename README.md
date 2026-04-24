@@ -11,4 +11,8 @@ The goal is to help product teams understand:
 
 ## Project 2: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
+For manufacturing companies, downtime directly impacts output and profitability through frequent production delays - such as machine breakdowns, power outages, inventory shortages, or operator mistakes - without clear visibility into the main causes.
+
+This analysis identifies key drivers of downtime and proposes actionable strategies to reduce operational disruptions.
+
 ## Project 3: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/tree/main)
