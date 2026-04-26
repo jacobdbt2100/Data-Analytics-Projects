@@ -1,3 +1,12 @@
+## Jacob Joshua
+
+Product Analyst & Analytics Engineer || SaaS & FinTech ||
+
+Growth, Retention, & Behaviour Analytics || Data Modelling ||
+
+SQL • dbt • Python • Power BI • Excel
+___
+
 ## Project 1: [Trial-to-Activation Behaviour Analysis and ELT Modelling](https://github.com/jacobdbt2100/trial_activation_analysis)
 
 This project defines **Trial Activation** for a workforce management SaaS product by identifying behaviours that signal product value and evaluating their relationship with conversion likelihood.
