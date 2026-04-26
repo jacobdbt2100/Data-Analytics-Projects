@@ -1,10 +1,8 @@
 ## Jacob Joshua
 
-Product Analyst & Analytics Engineer || SaaS & FinTech ||
+Data Analyst & Analytics Engineer
 
-Growth, Retention, & Behaviour Analytics || Data Modelling ||
-
-SQL • dbt • Python • Power BI • Excel
+Growth, Retention, Behaviour Analytics & Data Modelling
 ___
 
 ## Project 1: [Trial-to-Activation Behaviour Analysis and ELT Modelling](https://github.com/jacobdbt2100/trial_activation_analysis)
