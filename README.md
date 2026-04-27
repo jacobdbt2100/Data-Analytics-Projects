@@ -1,4 +1,5 @@
-## **Author**: Jacob Joshua
+## Data Analytics Projects
+**Author**: Jacob Joshua
 ___
 
 ## Project 1: [Trial-to-Activation Behaviour Analysis and ELT Modelling](https://github.com/jacobdbt2100/trial_activation_analysis)
