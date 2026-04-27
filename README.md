@@ -1,8 +1,4 @@
-## Jacob Joshua
-
-Data Analyst & Analytics Engineer
-
-Growth, Retention, Behaviour Analytics & Data Modelling
+## **Author**: Jacob Joshua
 ___
 
 ## Project 1: [Trial-to-Activation Behaviour Analysis and ELT Modelling](https://github.com/jacobdbt2100/trial_activation_analysis)
