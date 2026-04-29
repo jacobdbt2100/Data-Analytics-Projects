@@ -2,7 +2,7 @@
 **Author**: Jacob Joshua
 ___
 
-## Project 1: [Trial-to-Activation Behaviour Analysis and ELT Modelling ...Read more](https://github.com/jacobdbt2100/trial_activation_analysis)
+## Project 1: [Trial-to-Activation Behaviour Analysis and ELT Modelling ...read more](https://github.com/jacobdbt2100/trial_activation_analysis)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/trial_activation_analysis/main/notebooks/03_descriptive_analysis_and_product_metrics_output.png" width="400">
 
