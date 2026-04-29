@@ -16,7 +16,7 @@ The goal is to help product teams:
 
 ## Project 2: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
-For manufacturing companies, **downtime** directly **impacts output and profitability** through **frequent production delays** such as;
+For manufacturing companies, **downtime** directly **impacts output and profitability** through **frequent production delays** resulting from;
 - Machine breakdowns
 - Power outages
 - Inventory shortages
