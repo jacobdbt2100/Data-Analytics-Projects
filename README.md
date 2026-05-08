@@ -2,7 +2,7 @@
 **Author**: Jacob Joshua
 ___
 
-## Project 1: [Trial-to-Activation Behaviour Analysis and ELT Modelling](https://github.com/jacobdbt2100/trial_activation_analysis)
+## Project 1: [Trial-to-Activation Behaviour Analysis & ELT Modelling](https://github.com/jacobdbt2100/trial_activation_analysis)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/trial_activation_analysis/main/notebooks/03_descriptive_analysis_and_product_metrics_output.png" width="400">
 
@@ -18,7 +18,7 @@ The goal is to help product teams:
 - **Track activation** consistently at scale using **warehouse-based data models**
 - Generate actionable insights to **improve onboarding and conversion performance**
 
-## Project 2: [Supply Chain Service Level Tracking Analysis and ELT Modelling](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
+## Project 2: [Supply Chain Service Level Tracking Analysis & ELT Modelling](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/supply-chain-service-level-tracking/main/dashboards/service_level_report.jpg" width="300">
 
