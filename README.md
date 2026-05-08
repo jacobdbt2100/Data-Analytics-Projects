@@ -20,7 +20,7 @@ The goal is to help product teams:
 
 ## Project 2: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
 
-<img src="https://raw.githubusercontent.com/jacobdbt2100/supply-chain-service-level-tracking/main/dashboards/service_level_report.jpg" width="400">
+<img src="https://raw.githubusercontent.com/jacobdbt2100/supply-chain-service-level-tracking/main/dashboards/service_level_report.jpg" width="300">
 
 [...view full project repo](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
 
