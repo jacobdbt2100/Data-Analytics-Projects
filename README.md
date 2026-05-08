@@ -20,6 +20,8 @@ The goal is to help product teams:
 
 ## Project 2: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
 
+<img src="https://raw.githubusercontent.com/jacobdbt2100/supply-chain-service-level-tracking/blob/main/dashboards/service_level_report.jpg" width="400">
+
 [...view full project repo](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
 
 For supply chain–driven organisations, service level performance directly affects customer satisfaction, retention, and contractual compliance. In this organisation, management observed recurring complaints from customers and inconsistent service level outcomes but lacked clear visibility into where and why performance was falling short.
@@ -28,7 +30,7 @@ This analysis aims to identify key gaps in service performance, highlight custom
 
 ## Project 3: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="200">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="300">
 
 [...view full project repo](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
