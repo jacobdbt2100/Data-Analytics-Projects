@@ -6,40 +6,29 @@ ___
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/trial_activation_analysis/main/notebooks/03_descriptive_analysis_and_product_metrics_output.png" width="400">
 
-[...view full project repo](https://github.com/jacobdbt2100/trial_activation_analysis)
+[...view project repo](https://github.com/jacobdbt2100/trial_activation_analysis)
 
-This project defines **Trial Activation** for a workforce management SaaS product by identifying behaviours that signal product value and evaluating their relationship with conversion likelihood.
+Built an analytics-ready product analytics workflow for a SaaS workforce management platform to analyse trial activation and conversion behaviour across 102k+ cleaned product events.
 
-The goal is to help product teams:
+Applied behavioural segmentation, chi-square testing, Mann–Whitney U testing, logistic regression, and layered dbt models to evaluate activation hypotheses, onboarding effectiveness, and conversion patterns.
 
-- Define what a **good trial** looks like based on meaningful product behaviours
-- Identify behaviours associated with **higher conversion potential**
-- Determine when to **intervene during onboarding** to improve engagement
-- **Track activation** consistently at scale using **warehouse-based data models**
-- Generate actionable insights to **improve onboarding and conversion performance**
 
 ## Project 2: [Supply Chain Service Level Tracking Analysis & ELT Modelling](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/supply-chain-service-level-tracking/main/dashboards/service_level_report.jpg" width="300">
 
-[...view full project repo](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
+[...view project repo](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
 
-This project analyses **service level performance** across customers, cities, and products to identify drivers of poor fulfilment and support contract retention decisions.
+Developed warehouse-ready operations analytics models and reporting workflows for supply chain service-level tracking using Python, SQL, dbt, and Power BI.
 
-The goal is to help operations and supply chain teams:
+Analysed fulfilment reliability and delivery performance using OTIF, On-Time, In-Full, Line Fill Rate, and Volume Fill Rate metrics to support KPI monitoring, operational benchmarking, and service-level analysis.
 
-- Track **On-Time**, **In-Full**, and **OTIF** performance
-- Compare **actual service levels** vs **customer targets**
-- Identify **underperforming customers**, **cities**, and **products**
-- Understand **delivery delays** and **fulfilment gaps**
-- Build **consistent, scalable metrics** using warehouse data models
-- Enable reporting through a **Power BI dashboard**
 
 ## Project 3: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="300">
 
-[...view full project repo](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
+[...view project repo](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
 For manufacturing companies, **downtime** directly **impacts output and profitability** through **frequent production delays** resulting from;
 - Machine breakdowns
