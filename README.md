@@ -12,7 +12,6 @@ Built an analytics-ready product analytics workflow for a SaaS workforce managem
 
 Applied behavioural segmentation, chi-square testing, Mann–Whitney U testing, logistic regression, and layered dbt models to evaluate activation hypotheses, onboarding effectiveness, and conversion patterns.
 
-
 ## Project 2: [Supply Chain Service Level Tracking Analysis & ELT Modelling](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/supply-chain-service-level-tracking/main/dashboards/service_level_report.jpg" width="300">
@@ -23,20 +22,13 @@ Developed warehouse-ready operations analytics models and reporting workflows fo
 
 Analysed fulfilment reliability and delivery performance using OTIF, On-Time, In-Full, Line Fill Rate, and Volume Fill Rate metrics to support KPI monitoring, operational benchmarking, and service-level analysis.
 
-
 ## Project 3: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="300">
 
 [...view project repo](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
-For manufacturing companies, **downtime** directly **impacts output and profitability** through **frequent production delays** resulting from;
-- Machine breakdowns
-- Power outages
-- Inventory shortages
-- Operator mistakes
+Developed an operations analytics report to evaluate manufacturing downtime drivers, production efficiency, and operational disruptions across production batches and downtime factors.
 
-These challenges occur without clear visibility into the main causes.
-
-This analysis identifies **key drivers of downtime** and proposes actionable **strategies to reduce operational disruptions**.
+Analysed downtime patterns using line efficiency, Pareto analysis, and operator-related downtime metrics to identify major production bottlenecks and operational risks.
 ___
