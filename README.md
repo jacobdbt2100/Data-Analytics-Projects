@@ -2,7 +2,17 @@
 **Author**: Jacob Joshua
 ___
 
-## Project 1: [Trial Activation & Conversion Behaviour Analysis with ELT Modelling](https://github.com/jacobdbt2100/trial_activation_analysis)
+## Project 1: [Monitoring & Evaluation System for Smallholder Farm Productivity](https://github.com/jacobdbt2100/Monitoring-and-Evaluation-System)
+
+<img src="https://raw.githubusercontent.com/jacobdbt2100/Monitoring-and-Evaluation-System/main/power%20bi%20report/01_programme%20overview.jpg" width="1200">
+
+[...view project repo](https://github.com/jacobdbt2100/Monitoring-and-Evaluation-System)
+
+Developed an end-to-end monitoring and evaluation system for an agricultural development programme, covering digital data collection, case management, data processing, programme performance monitoring, and executive reporting.
+
+Built a structured data workflow using CommCare, Python, PostgreSQL, SQL, Excel, and Power BI to track programme reach, training, input distribution, farm monitoring, adoption of recommended practices, and data quality.
+
+## Project 2: [Trial Activation & Conversion Behaviour Analysis with ELT Modelling](https://github.com/jacobdbt2100/trial_activation_analysis)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/trial_activation_analysis/main/notebooks/03_descriptive_analysis_and_product_metrics_output.png" width="400">
 
@@ -12,7 +22,7 @@ Built an analytics-ready product analytics workflow for a SaaS workforce managem
 
 Applied behavioural segmentation, chi-square testing, Mann–Whitney U testing, logistic regression, and layered dbt models to evaluate activation hypotheses, onboarding effectiveness, and conversion patterns.
 
-## Project 2: [Supply Chain Service Level Tracking Analysis & ELT Modelling](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
+## Project 3: [Supply Chain Service Level Tracking Analysis & ELT Modelling](https://github.com/jacobdbt2100/supply-chain-service-level-tracking)
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/supply-chain-service-level-tracking/main/dashboards/service_level_report.jpg" width="300">
 
@@ -22,7 +32,7 @@ Developed warehouse-ready operations analytics models and reporting workflows fo
 
 Analysed fulfilment reliability and delivery performance using OTIF, On-Time, In-Full, Line Fill Rate, and Volume Fill Rate metrics to support KPI monitoring, operational benchmarking, and service-level analysis.
 
-## Project 3: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
+## Project 4: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/tree/main)
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="300">
 
