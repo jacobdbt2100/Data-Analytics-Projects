@@ -1,4 +1,4 @@
-## Data Analytics Projects
+# Data Analytics Projects
 **Author**: Jacob Joshua
 ___
 
