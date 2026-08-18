@@ -8,7 +8,7 @@ ___
 
 [...view project repo](https://github.com/jacobdbt2100/Monitoring-and-Evaluation-System)
 
-Developed an end-to-end monitoring and evaluation system for an agricultural development programme, covering digital data collection, case management, data processing, programme performance monitoring, and executive reporting.
+Developed an end-to-end monitoring and evaluation system for an agricultural development programme covering digital data collection, case management, data processing, programme performance monitoring, and executive reporting.
 
 Built a structured data workflow using CommCare, Python, PostgreSQL, SQL, Excel, and Power BI to track programme reach, training, input distribution, farm monitoring, adoption of recommended practices, and data quality.
 
