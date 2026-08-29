@@ -48,8 +48,10 @@ ___
 
 
 
-[^1]: This is the footnote text.
 
+
+
+This is a statement with a footnote.[^1]
 
 
 
