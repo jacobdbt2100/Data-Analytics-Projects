@@ -51,7 +51,7 @@ ___
 
 
 
-This is a statement with a footnote.[^1]
+This is a statement with a footnote. [^1]
 
 
 
