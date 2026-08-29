@@ -42,3 +42,5 @@ Built an analytics-ready product analytics workflow for a SaaS workforce managem
 
 Applied behavioural segmentation, chi-square testing, Mann–Whitney U testing, logistic regression, and layered dbt models to evaluate activation hypotheses, onboarding effectiveness, and conversion patterns.
 ___
+
+Databricks uses Delta Lake.[^delta]
