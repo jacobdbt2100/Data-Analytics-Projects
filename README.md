@@ -55,8 +55,6 @@ This is a statement with a footnote. [^1]
 
 [^1]: This is the footnote text.
 
-Databricks uses Delta Lake.[^delta]
 
-[^delta]: Delta Lake provides ACID transactions and other reliability features.
 
 
